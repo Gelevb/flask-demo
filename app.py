@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "complete_success"
+    return "gleb"
 
 
 if __name__ == "__main__":
